@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sudharsan3110/leetcode-problems/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/sudharsan3110/leetcode-problems/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/sudharsan3110/leetcode-problems/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sudharsan3110/leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sudharsan3110/leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/sudharsan3110/leetcode-problems/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/sudharsan3110/leetcode-problems/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sudharsan3110/leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sudharsan3110/leetcode-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
