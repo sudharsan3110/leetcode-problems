@@ -78,3 +78,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/sudharsan3110/leetcode-problems/tree/master/1138-grumpy-bookstore-owner) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sudharsan3110/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sudharsan3110/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+<!---LeetCode Topics End-->
