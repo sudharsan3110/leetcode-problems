@@ -88,4 +88,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sudharsan3110/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
