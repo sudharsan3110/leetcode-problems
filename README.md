@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/sudharsan3110/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
