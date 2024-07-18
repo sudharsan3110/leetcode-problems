@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sudharsan3110/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/sudharsan3110/leetcode-problems/tree/master/0485-max-consecutive-ones) |
@@ -109,10 +110,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sudharsan3110/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sudharsan3110/leetcode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
