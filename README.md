@@ -95,11 +95,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/sudharsan3110/leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sudharsan3110/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sudharsan3110/leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/sudharsan3110/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sudharsan3110/leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -119,9 +121,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sudharsan3110/leetcode-problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sudharsan3110/leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sudharsan3110/leetcode-problems/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sudharsan3110/leetcode-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sudharsan3110/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
