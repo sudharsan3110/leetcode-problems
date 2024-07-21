@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sudharsan3110/leetcode-problems/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/sudharsan3110/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sudharsan3110/leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sudharsan3110/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sudharsan3110/leetcode-problems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
