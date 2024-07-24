@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sudharsan3110/leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/sudharsan3110/leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [1333-sort-the-jumbled-numbers](https://github.com/sudharsan3110/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sudharsan3110/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/sudharsan3110/leetcode-problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sudharsan3110/leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
+| [1333-sort-the-jumbled-numbers](https://github.com/sudharsan3110/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 ## Backtracking
 |  |
 | ------- |
