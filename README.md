@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sudharsan3110/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sudharsan3110/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0412-fizz-buzz](https://github.com/sudharsan3110/leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/sudharsan3110/leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sudharsan3110/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sudharsan3110/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
