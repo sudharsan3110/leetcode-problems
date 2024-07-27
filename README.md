@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sudharsan3110/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sudharsan3110/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
@@ -151,4 +152,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sudharsan3110/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sudharsan3110/leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
