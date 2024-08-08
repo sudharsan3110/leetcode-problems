@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sudharsan3110/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sudharsan3110/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sudharsan3110/leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sudharsan3110/leetcode-problems/tree/master/0078-subsets) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sudharsan3110/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
