@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/sudharsan3110/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/sudharsan3110/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/sudharsan3110/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1078-remove-outermost-parentheses](https://github.com/sudharsan3110/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -169,4 +170,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/sudharsan3110/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/sudharsan3110/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
