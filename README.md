@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sudharsan3110/leetcode-problems/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sudharsan3110/leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Binary Search
@@ -174,4 +175,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/sudharsan3110/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sudharsan3110/leetcode-problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
