@@ -174,9 +174,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/sudharsan3110/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/sudharsan3110/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sudharsan3110/leetcode-problems/tree/master/0050-powx-n) |
+## Tree
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/sudharsan3110/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/sudharsan3110/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
