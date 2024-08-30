@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sudharsan3110/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sudharsan3110/leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [1046-max-consecutive-ones-iii](https://github.com/sudharsan3110/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sudharsan3110/leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sudharsan3110/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/sudharsan3110/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/sudharsan3110/leetcode-problems/tree/master/0268-missing-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/sudharsan3110/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/sudharsan3110/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1046-max-consecutive-ones-iii](https://github.com/sudharsan3110/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -188,4 +191,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sudharsan3110/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/sudharsan3110/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
