@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/sudharsan3110/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/sudharsan3110/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/sudharsan3110/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sudharsan3110/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0412-fizz-buzz](https://github.com/sudharsan3110/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sudharsan3110/leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sudharsan3110/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sudharsan3110/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/sudharsan3110/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sudharsan3110/leetcode-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
 | ------- |
